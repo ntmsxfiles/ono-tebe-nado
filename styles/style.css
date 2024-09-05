@@ -92,16 +92,17 @@
     letter-spacing: 60px;
   }
   
-  .aligned-text_center {
-    text-align: center;
+  .aligned-text_parties {
     line-height: 100%;
     margin-top: 20px;
   }
   
+  .aligned-text_center {
+    text-align: center;
+  }
+  
   .aligned-text_right {
     text-align: right;
-    line-height: 100%;
-    margin-top: 20px;
   }
   
   .no-letter-spacing {
@@ -291,7 +292,7 @@
     font-size: 18px;
     line-height: 21.13px;
     text-underline-offset: 4px;
-    margin: 150px 52px 0 40px;
+    margin: 150px 0 0 35px;
   }
   
   .footer__menu-list {
